@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Karpat</string>
+
+    <string name="parametre">Ayarlar</string>
+    <string name="menu">Menu</string>
+
+    <string name="espaceUtilisateur">Profil sayfasi</string>
+    <string name="espaceLieux">Konumlar</string>
+
+    <string name="connexion">Giriş Yap</string>
+    <string name="inscription">Yeni hesap aç</string>
+
+    <string name="montagne">Dağlar</string>
+    <string name="chateau">Kaleler</string>
+    <string name="info"> Bilgi </string>
+    <string name="langue"> Dil </string>
+    <string name="option"> Ayarlar </string>
+    <string name="recherche"> Arama ... </string>
+
+    <string name="google_maps_key">AIzaSyCVz7gX8ETwHOPQj4EDBBmaCXkg3YOqe-w</string>
+
+    <string name="chateaubran"> Bran Kalesi</string>
+    <string name="lieuajoutfav">Konum favorilerinize eklendi</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--utilisateur-->
+    <string name="nom">Soyadı :</string>
+    <string name="prenom">Isim :</string>
+    <string name="identifiant">Kullanıcı adi :</string>
+    <string name="motdepasse">Şifre :</string>
+    <string name="confirmation">Şifre nin onayı :</string>
+</resources>

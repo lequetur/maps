@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:icon="@drawable/recherche"
+        android:id="@+id/recherche"
+        android:orderInCategory="1"
+        android:title="@string/recherche"
+        app:showAsAction="ifRoom|collapseActionView"
+        app:actionViewClass="android.support.v7.widget.SearchView" />
+
+    <item android:title="@string/langue"
+        android:orderInCategory="2"
+        app:showAsAction="never">
+        <group android:checkableBehavior="single"
+            android:orderInCategory="1">
+            <item
+                android:id="@+id/fr"
+                android:orderInCategory="3"
+                android:title="Français"/>
+            <item
+                android:id="@+id/en"
+                android:orderInCategory="1"
+                android:title="English"
+                android:checked="true"/>
+            <item
+                android:id="@+id/ro"
+                android:orderInCategory="2"
+                android:title="Românesc"/>
+            <item
+                android:id="@+id/tr"
+                android:orderInCategory="4"
+                android:title="Türkçe"/>
+        </group>
+    </item>
+
+    <item android:title="@string/option"
+        android:orderInCategory="5"
+        app:showAsAction="never">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/modenuit"
+                    android:title="Mode Nuit"
+                    android:checkable="true"/>
+                <item
+                    android:id="@+id/voirautre"
+                    android:title="Voir les autres utilisateurs"
+                    android:checkable="true"/>
+            </group>
+        </menu>
+    </item>
+</menu>
+

@@ -1,0 +1,36 @@
+
+<resources>
+    <string name="app_name">Carpați</string>
+
+    <string name="parametre">Reglaj</string>
+    <string name="menu">Meniu</string>
+
+    <string name="espaceUtilisateur">Profil</string>
+    <string name="espaceLieux">Locuri</string>
+
+    <string name="connexion">Logare</string>
+    <string name="inscription">Inscrie-te</string>
+
+    <string name="montagne">Munţi</string>
+    <string name="chateau">Castel</string>
+    <string name="info"> Informație </string>
+    <string name="langue"> Limba </string>
+    <string name="option"> Reglaj </string>
+    <string name="recherche"> Căutare ... </string>
+
+    <string name="google_maps_key">AIzaSyCVz7gX8ETwHOPQj4EDBBmaCXkg3YOqe-w</string>
+
+    <string name="chateaubran"> Castelul Bran</string>
+    <string name="lieuajoutfav">Această locație a fost adăugat la favorite</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--utilisateur-->
+    <string name="nom">Nume :</string>
+    <string name="prenom">Prenuma :</string>
+    <string name="identifiant">Autentificare :</string>
+    <string name="motdepasse">Parolă :</string>
+    <string name="confirmation">Parolă de confirmare :</string>
+</resources>
