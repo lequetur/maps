@@ -21,6 +21,7 @@
     <string name="google_maps_key">AIzaSyCVz7gX8ETwHOPQj4EDBBmaCXkg3YOqe-w</string>
 
     <string name="chateaubran"> Castelul Bran</string>
+    <string name="chateauhunedoara"> Castelul Corvinilor</string>
     <string name="lieuajoutfav">Această locație a fost adăugat la favorite</string>
 
     <string name="title_activity_maps">Map</string>

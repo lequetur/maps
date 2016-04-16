@@ -1,16 +1,17 @@
-
-
 <resources>
     <string name="app_name">Carpathians</string>
 
     <string name="parametre">Settings</string>
     <string name="menu">Menu</string>
 
+    <!--Espace utilisateur-->
     <string name="espaceUtilisateur">Profile</string>
     <string name="espaceLieux">Places</string>
 
     <string name="connexion">Sign in</string>
     <string name="inscription">Sign up</string>
+    <string name="deconnexion">Logout</string>
+    <string name="favoris">Favourites</string>
 
     <string name="montagne">Mountains</string>
     <string name="chateau">Castle</string>
@@ -22,6 +23,7 @@
     <string name="google_maps_key">AIzaSyCVz7gX8ETwHOPQj4EDBBmaCXkg3YOqe-w</string>
 
     <string name="chateaubran"> Bran Castle</string>
+    <string name="chateauhunedoara"> Corvin Castle</string>
     <string name="lieuajoutfav">Place has been added to your favorite</string>
 
     <string name="title_activity_maps">Map</string>
@@ -29,9 +31,12 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <!--utilisateur-->
-    <string name="nom">Name :</string>
-    <string name="prenom">Surname :</string>
-    <string name="identifiant">Nickname :</string>
-    <string name="motdepasse">Password :</string>
-    <string name="confirmation">Password confirmation :</string>
+    <string name="email">Email</string>
+    <string name="mdp">Password</string>
+    <string name="nom">Fullname</string>
+    <string name="btn_inscription">Register</string>
+    <string name="btn_lien_inscription">Not a member? Sign up now.</string>
+    <string name="btn_lien_connexion">Already registred! Login Me.</string>
+    <string name="btn_ajout_favoris">This place has been added to your favorites</string>
+    <string name="bienvenue">Welcome</string>
 </resources>

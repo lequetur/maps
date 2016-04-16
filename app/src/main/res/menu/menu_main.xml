@@ -23,8 +23,7 @@
             <item
                 android:id="@+id/en"
                 android:orderInCategory="1"
-                android:title="English"
-                android:checked="true"/>
+                android:title="English"/>
             <item
                 android:id="@+id/ro"
                 android:orderInCategory="2"

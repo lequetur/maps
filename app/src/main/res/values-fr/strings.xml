@@ -4,12 +4,14 @@
     <string name="parametre">Paramètres</string>
     <string name="menu">Menu</string>
 
+    <!--Espace utilisateur-->
     <string name="espaceUtilisateur">Espace utilisateur</string>
     <string name="espaceLieux">Lieux</string>
 
     <string name="connexion">Connexion</string>
     <string name="inscription">Inscription</string>
-    <string name="nouveauUtil">Nouvel Utilisateur</string>
+    <string name="deconnexion">Déconnexion</string>
+    <string name="favoris">Favoris</string>
 
     <string name="montagne">Montagnes</string>
     <string name="chateau">Chateaux</string>
@@ -21,6 +23,7 @@
     <string name="google_maps_key">AIzaSyCVz7gX8ETwHOPQj4EDBBmaCXkg3YOqe-w</string>
 
     <string name="chateaubran"> Chateau de Bran</string>
+    <string name="chateauhunedoara"> Château de Hunedoara</string>
     <string name="lieuajoutfav">Lieu ajouté à vos favoris</string>
 
     <string name="title_activity_maps">Map</string>
@@ -28,9 +31,14 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <!--utilisateur-->
-    <string name="nom">Nom :</string>
-    <string name="prenom">Prénom :</string>
-    <string name="identifiant">Identifiant :</string>
-    <string name="motdepasse">Mot de passe :</string>
     <string name="confirmation">Confirmation du mot de passe :</string>
+    <!--utilisateur-->
+    <string name="email">Email</string>
+    <string name="mdp">Mot de passe</string>
+    <string name="nom">Nom Prénom</string>
+    <string name="btn_inscription">S\'inscrire</string>
+    <string name="btn_lien_inscription">Toujours pas membre ? Inscrivez vous dès maintenant.</string>
+    <string name="btn_lien_connexion">Déjà inscrit ! Se connecter.</string>
+    <string name="btn_ajout_favoris">Ce lieu a été ajouté à vos favoris</string>
+    <string name="bienvenue">Bienvenue</string>
 </resources>

@@ -1,27 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
 
-    <item android:title="@string/espaceUtilisateur">
+    <item android:title="@string/espaceUtilisateur"
+        android:id="@+id/itemProfile">
         <menu>
             <item
-                android:id="@+id/nav1"
+                android:id="@+id/navCo"
                 android:icon="@drawable/connexion"
-                android:title="@string/connexion"/>
+                android:title="@string/connexion"
+                android:visible="true"/>
             <item
-                android:id="@+id/nav2"
+                android:id="@+id/navNew"
                 android:icon="@drawable/nouveau"
-                android:title="@string/inscription" />
+                android:title="@string/inscription"
+                android:visible="true" />
+            <item
+                android:id="@+id/navDeco"
+                android:icon="@drawable/logout"
+                android:title="@string/deconnexion"
+                android:visible="false"/>
+            <item
+                android:id="@+id/navFav"
+                android:icon="@drawable/favoris"
+                android:title="@string/favoris"
+                android:visible="false"/>
         </menu>
     </item>
 
     <item android:title="@string/espaceLieux">
         <menu>
             <item
-                android:id="@+id/nav3"
+                android:id="@+id/navChateau"
                 android:icon="@drawable/chateau"
                 android:title="@string/chateau"/>
             <item
-                android:id="@+id/nav4"
+                android:id="@+id/navMontagne"
                 android:icon="@drawable/montagne"
                 android:title="@string/montagne" />
         </menu>

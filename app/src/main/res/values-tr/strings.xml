@@ -20,6 +20,7 @@
     <string name="google_maps_key">AIzaSyCVz7gX8ETwHOPQj4EDBBmaCXkg3YOqe-w</string>
 
     <string name="chateaubran"> Bran Kalesi</string>
+    <string name="chateauhunedoara"> Corvin Kalesi</string>
     <string name="lieuajoutfav">Konum favorilerinize eklendi</string>
 
     <string name="title_activity_maps">Map</string>
